@@ -1,0 +1,7 @@
+@include('frontend.includes.head')
+@include('frontend.includes.header')
+@include('frontend.includes.slider')
+@include('frontend.includes.popular-product')
+@include('frontend.includes.video')
+@include('frontend.includes.latestproduct')
+@include('frontend.includes.footer')
